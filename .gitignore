@@ -1,0 +1,25 @@
+# Archivos .class
+*.class
+
+# Archivos .swp
+*.swp
+
+# Archivos de proyecto de IDE
+# Eclipse
+.metadata
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Visual Studio Code
+.vscode/
